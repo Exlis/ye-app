@@ -1,0 +1,1208 @@
+[
+    { 
+
+        "category":"ZP 1 2006 F1", 
+        
+        "question": "Was muss man tun, wenn man Gefahr bringende Mängel an elektrischen Geräten erkennt?", 
+        
+        "choice1": "Bei der Weiterbenutzung äußerste Sorgfalt walten lassen", 
+        
+        "choice2": "Die Fachkraft für Arbeitssicherheit umgehend verständigen", 
+        
+        "choice3": "Sich beim Betriebsrat schriftlich beschweren", 
+        
+        "choice4": "Die elektrischen Geräte unverzüglich stilllegen und dies dem Vorgesetzten melden", 
+        
+        "choice5": "Die Mängel selbst beheben", 
+        
+        "answer": 4 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F2", 
+        
+        "question": "Wovor kann eine Schutzbrille mit Sichtscheiben ohne Filterwirkung die Augen nicht schützen?", 
+        
+        "choice1": "Vor Glassplitter", 
+        
+        "choice2": "Vor Metallsplitter beim Bohren", 
+        
+        "choice3": "Vor Blendung durch Lichtbogen", 
+        
+        "choice4": "Vor Säurespritzer", 
+        
+        "choice5": "Vor Metallspänen beim Fräsen", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F3", 
+        
+        "question": "Mit welchem Gefahrensymbol sind Stoffe der Kategorie Gesundheitsschädlich gekennzeichnet? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F3.jpg' target ='_blank'>(Link zum Bild)</a>",
+        
+        "choice1": "Bild 1", 
+        
+        "choice2": "Bild 2", 
+        
+        "choice3": "Bild 3", 
+        
+        "choice4": "Bild 4", 
+        
+        "choice5": "Bild 5", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F4", 
+        
+        "question": "Ein Mitarbeiter hat sich eine große Schnittwunde an der Innenhand zugezogen. Die Wunde ist sehr stark verschmutzt. Welche Erste-Hilfe-Maßnahme ist richtig?", 
+        
+        "choice1": "Wunde sofort mit Reinigungsbenzin auswaschen, anschließend möglichst keimfrei bedecken", 
+        
+        "choice2": "Wunde sofort mit Wasser auswaschen, anschließend möglichst keimfrei bedecken", 
+        
+        "choice3": "Wunde mit Jod desinfizieren und anschließend möglichst keimfrei bedecken", 
+        
+        "choice4": "Wunde etwas bluten lassen, anschließend möglichst keimfrei bedecken", 
+        
+        "choice5": "Wunde mit einem keimfreien Tuch ausreiben, anschließend verbinden", 
+        
+        "answer": 4 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F5", 
+        
+        "question": "Wie nennt man einen Werkstoff, der durch Zusammenschmelzen von zwei verschiedenen Metallen entsteht?", 
+        
+        "choice1": "Metallische Verbindung", 
+        
+        "choice2": "Legierung", 
+        
+        "choice3": "Metallgemisch", 
+        
+        "choice4": "Metallgemenge", 
+        
+        "choice5": "Chemische Verbindung", 
+        
+        "answer": 2 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F6", 
+        
+        "question": "In der Werkstofftechnik unterscheidet man zwischen Rohstoff und Werkstoff. Welche Aussage ist richtig?", 
+        
+        "choice1": "Aluminium ist ein Rohstoff", 
+        
+        "choice2": "Gusseisen ist ein Werkstoff", 
+        
+        "choice3": "Stahl ist ein Rohstoff", 
+        
+        "choice4": "Tonerde ist ein Werkstoff", 
+        
+        "choice5": "Eisenerz ist ein Werkstoff", 
+        
+        "answer": 2 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F7", 
+        
+        "question": "In welcher Auswahlantwort sind nur Isolatoren für den elektrischen Strom angegeben?", 
+        
+        "choice1": "Feuchter Beton, Glas", 
+        
+        "choice2": "Graphit, Polyethen", 
+        
+        "choice3": "Graphit, Quarz", 
+        
+        "choice4": "Polyvinylchlorid, Porzellan", 
+        
+        "choice5": "Aluminiumpulver enthaltender Kunstlack, trockenes Holz", 
+        
+        "answer": 4 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F8", 
+        
+        "question": "Welche Aussage über Phosphor ist aufgrund der Schreibweise <sup>31</sup><sub>15</sub> P richtig?", 
+        
+        "choice1": "Die molare Masse von Phosphor beträgt 15 g/mol", 
+        
+        "choice2": "Ein Phosphor-Atom hat 31 Nukleonen", 
+        
+        "choice3": "Ein Phosphor-Atom 16 Elektronen", 
+        
+        "choice4": "Ein Phosphor-Atom hat 31 Elektronen", 
+        
+        "choice5": "Die molare Masse des Phosphors beträgt 16 g/mol", 
+        
+        "answer": 2 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F9", 
+        
+        "question": "Worauf sind die relativ hohen Schmelztemperaturen der aus Ionen aufgebauten Verbindungen im Wesentlichen zurückzuführen?", 
+        
+        "choice1": "Auf die große Massenanziehungskraft der Teilchen", 
+        
+        "choice2": "Auf den ungeordneten Aufbau des Kristallgitters", 
+        
+        "choice3": "Auf den kleinsten Wert der Gitterenergie", 
+        
+        "choice4": "Auf die großen molaren Massen der aus Ionen aufgebauten Verbindungen", 
+        
+        "choice5": "Auf die sehr großen zwischenionischen Kräfte im Kristall", 
+        
+        "answer": 5 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F10", 
+        
+        "question": "Welche Bindungsart liegt im Chlormolekül vor?", 
+        
+        "choice1": "Atombindung", 
+        
+        "choice2": "Ionenbindung", 
+        
+        "choice3": "Metallbindung", 
+        
+        "choice4": "Polare Bindung", 
+        
+        "answer": 1 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F11", 
+        
+        "question": "Welche der genannten Verbindungen ist keine Säure?", 
+        
+        "choice1": "HF", 
+        
+        "choice2": "H<sub>2</sub>S", 
+        
+        "choice3": "HClO<sub>4</sub>", 
+        
+        "choice4": "CH<sub>4</sub>", 
+        
+        "choice5": "HCOOH", 
+        
+        "answer": 4 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F12", 
+        
+        "question": "Was versteht man unter Neutralisation?", 
+        
+        "choice1": "Eine Phosphatierung", 
+        
+        "choice2": "Das Entrosten mit Rostumwandlern", 
+        
+        "choice3": "Eine Reaktion zwischen Lauge und Säure", 
+        
+        "choice4": "Die Trocknung von Beschichtungsstoffen", 
+        
+        "choice5": "Die Entfernung von Fetten und Schmutz", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F13", 
+        
+        "question": "Welche Aussage über das Periodensystem der Elemente ist richtig?", 
+        
+        "choice1": "In ihm sind nur die wichtigsten Elemente aufgeführt", 
+        
+        "choice2": "Die Elemente sind nach der Anzahl der im Kern befindlichen Protonen geordnet", 
+        
+        "choice3": "In jeder Gruppe befinden sich 8 Elemente",
+        
+        "choice4": "Die Hauptgruppen-Elemente sind Metalle und die Nebengruppen-Elemente sind Nichtmetalle ", 
+        
+        "choice5": "Der metallische Charakter der Elemente nimmt von links nach rechts zu", 
+        
+        "answer": 2 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F14", 
+        
+        "question": "Welches Element hat sowohl metallische als auch nichtmetallische Eigenschaften?", 
+        
+        "choice1": "Aluminium", 
+        
+        "choice2": "Magnesium", 
+        
+        "choice3": "Silicium",
+        
+        "choice4": "Iod", 
+        
+        "choice5": "Quecksilber", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F15", 
+        
+        "question": "Welche Aussage über chemische Verbindungen ist falsch?", 
+        
+        "choice1": "Chemische Verbindungen haben andere Eigenschaften als die Elemente, aus denen sie bestehen", 
+        
+        "choice2": "Chemische Verbindungen entstehen meist durch physikalische Vorgänge", 
+        
+        "choice3": "In chemischen Verbindungen stehen die Elemente in einem bestimmten Massenverhältnis", 
+        
+        "choice4": "Chemische Verbindungen lassen sich mit Hilfe chemischer Reaktionen wieder in die Elemente zerlegen", 
+        
+        "choice5": "Es gibt viel mehr chemische Verbindungen als Elemente", 
+        
+        "answer": 2 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F16", 
+        
+        "question": "Welcher der genannten Vorgänge ist eine Oxidation?", 
+        
+        "choice1": "Abgabe von Sauerstoff", 
+        
+        "choice2": "Aufnahme von Sauerstoff", 
+        
+        "choice3": "Übergang in eine niedrigere Oxidationsstufe", 
+        
+        "choice4": "Reaktion unter Luftausschluss", 
+        
+        "choice5": "Reaktion von Säure und Lauge", 
+        
+        "answer": 2 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F17", 
+        
+        "question": "Welches Gas ist normalerweise nicht in der Luft enthalten?", 
+        
+        "choice1": "Stickstoff", 
+        
+        "choice2": "Kohlenstoff", 
+        
+        "choice3": "Wasserdampf", 
+        
+        "choice4": "Chlor", 
+        
+        "choice5": "Argon", 
+        
+        "answer": 4 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F18", 
+        
+        "question": "Welche der genannten Erscheinungen hat nichts mit der Anomalie des Wassers zu tun?", 
+        
+        "choice1": "Eis schwimmt auf Wasser", 
+        
+        "choice2": "Ein See gefriert nur von der Oberfläche her zu", 
+        
+        "choice3": "Ein Wasserleitungsrohr zerreißt, wenn das Wasser darin gefriert", 
+        
+        "choice4": "Wasser ist als Thermometerflüssigkeit erst von +8°C aufwärts geeignet", 
+        
+        "choice5": "Warmes Wasser steigt in den Rohren der Zentralheizung nach oben", 
+        
+        "answer": 5 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F19", 
+        
+        "question": "Welche Verbindung ist kein Alkan?", 
+        
+        "choice1": "C<sub>2</sub>H<sub>4</sub>", 
+        
+        "choice2": "C<sub>2</sub>H<sub>6</sub>", 
+        
+        "choice3": "C<sub>3</sub>H<sub>8</sub>", 
+        
+        "choice4": "C<sub>4</sub>H<sub>10</sub>", 
+        
+        "choice5": "C<sub>5</sub>H<sub>12</sub>", 
+        
+        "answer": 1 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F20", 
+        
+        "question": "Welche Stoffe entstehen bei der vollständigen Verbrennung von Methan?", 
+        
+        "choice1": "H<sub>2</sub> und CO<sub>2</sub>", 
+        
+        "choice2": "H<sub>2</sub> und CO", 
+        
+        "choice3": "H<sub>2</sub>O und H<sub>2</sub>", 
+        
+        "choice4": "H<sub>2</sub>O und CO<sub>2</sub>", 
+        
+        "choice5": "H<sub>2</sub> und C", 
+        
+        "answer": 4 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F21", 
+        
+        "question": "Wie lautet der Name der Verbindung <a href='/images/ZP 2006/ZP 1 2006/1 2006 F21 2023-09-30 14_02_18.png' target ='_blank'>(Link zum Bild)</a>?", 
+        
+        "choice1": "n-Butan", 
+        
+        "choice2": "Methylpropan", 
+        
+        "choice3": "3-Methylpropan", 
+        
+        "choice4": "2-Methylpropan", 
+        
+        "choice5": "Propan", 
+        
+        "answer": 2 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F22", 
+        
+        "question": "Bei welcher der genannten Verfahren werden Feststoffgemenge in Bestandteile gleicher chemischer und physikalischer Eigenschaften aufgeteilt?", 
+        
+        "choice1": "Absorbieren", 
+        
+        "choice2": "Adsorbieren", 
+        
+        "choice3": "Klassieren",
+        
+        "choice4": "Sieben", 
+        
+        "choice5": "Sortieren", 
+        
+        "answer": 5 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F23", 
+        
+        "question": "Wodurch wird das Mischen von Feststoffen in einem Trommelmischer günstig beeinflusst?", 
+        
+        "choice1": "Durch möglichst glatte Innenwände des Behälters", 
+        
+        "choice2": "Durch einen großen Füllgrad", 
+        
+        "choice3": "Durch einen großen Feuchtigkeitsanteil der Stoffe", 
+        
+        "choice4": "Durch möglichst unterschiedliche Korngröße der zu mischenden Stoffe", 
+        
+        "choice5": "Durch kleine und möglichst gleichmäßige Korngröße der zu mischenden Stoffe", 
+        
+        "answer": 5 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F24", 
+        
+        "question": "Bei welchem der genannten Mischer erfolgt die Durchmischung von Feststoffen mit Hilfe eines Luftstroms?", 
+        
+        "choice1": "Schaufelmischer", 
+        
+        "choice2": "Trommelmischer", 
+        
+        "choice3": "Schneckenmischer", 
+        
+        "choice4": "Wirbelschichtmischer", 
+        
+        "choice5": "Taumelmischer", 
+        
+        "answer": 4 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F25", 
+        
+        "question": "Eine Feststoffportion soll in einem Lösemittel gelöst werden. Welches Vorgehen ist nicht geeignet, die Lösegeschwindigkeit zu erhöhen?", 
+        
+        "choice1": "Zerkleinern des Feststoffes", 
+        
+        "choice2": "Erwärmen des Lösemittels", 
+        
+        "choice3": "Rühren von Lösemittel und Lösung", 
+        
+        "choice4": "Zugabe der gesamten Feststoffportion in einem Schritt", 
+        
+        "choice5": "Erhöhen der Lösemittelportion", 
+        
+        "answer": 4 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F26", 
+        
+        "question": "Welches der genannten Trennverfahren eignet sich zum Trennen von Feststoffgemischen?", 
+        
+        "choice1": "Filtrieren", 
+        
+        "choice2": "Zentrifugieren", 
+        
+        "choice3": "Sedimentieren", 
+        
+        "choice4": "Dekantieren", 
+        
+        "choice5": "Sieben", 
+        
+        "answer": 5 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F27", 
+        
+        "question": "Welches der genannten Verfahren gehört zu den mechanischen Trennverfahren?", 
+        
+        "choice1": "Eindampfen", 
+        
+        "choice2": "Destillieren", 
+        
+        "choice3": "Rektifizieren", 
+        
+        "choice4": "Sublimieren", 
+        
+        "choice5": "Klassieren", 
+        
+        "answer": 5 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":" ZP 1 2006 F28", 
+        
+        "question": "Welche Aussage zur Bewertung von Messreihen ist falsch?", 
+        
+        "choice1": "Der wahre Wert xw für die Messgröße liegt mit einer Wahrscheinlichkeit von 68,3% innerhalb des einfachen Vertrauensbereichs", 
+        
+        "choice2": "Mit einer Wahrscheinlichkeit von 68,3% liegt ein einzelner Messwert im Bereich x quer +- s", 
+        
+        "choice3": "Mit x quer +- s wird der Vertrauensbereich des Mittelwerts gekennzeichnet",
+        
+        "choice4": "Der Vertrauensbereich ist ein Maß für die Zuverlässigkeit des Mittelwerts", 
+        
+        "choice5": "Die Standardabweichung ist ein Maß für die Zuverlässigkeit der einzelnen Messwerte", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F29", 
+        
+        "question": "An welcher Stelle herrscht in der skizzierten rauschenden Gasbrenner-Flamme die höchste Temperatur? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F29 2023-10-01 10_40_43.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "Bei A", 
+        
+        "choice2": "Bei B", 
+        
+        "choice3": "Bei C", 
+        
+        "choice4": "Bei D", 
+        
+        "choice5": "Bei E", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F30", 
+        
+        "question": "Welches der genannten Volumenmessgeräte ist am ungenauesten?", 
+        
+        "choice1": "Messkolben 100 mL", 
+        
+        "choice2": "Messzylinder 100 mL", 
+        
+        "choice3": "Vollpipette 100 mL", 
+        
+        "choice4": "Pyknometer 50 mL", 
+        
+        "choice5": "Bürette 50 mL", 
+        
+        "answer": 2 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F31", 
+        
+        "question": "Welche Aussage über das Messen ist richtig?", 
+        
+        "choice1": "Messen ist das Vergleichen von Zahlenwerten", 
+        
+        "choice2": "Die Genauigkeit einer Messung hängt nur von der Perso ab, die die Messung ausführt", 
+        
+        "choice3": "Messen ist der Vergleich einer Größe mit einer festgelegten Einheit", 
+        
+        "choice4": "Man soll stets so genau wie nur irgend möglich messen", 
+        
+        "choice5": "Der Zeitaufwand für eine Messung ist umso kleiner, je genauer die Messung sein soll", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F32", 
+        
+        "question": "Welche Größe eines festen Körpers ist nicht ortsabhängig und auch nicht temperaturabhängig?", 
+        
+        "choice1": "Länge", 
+        
+        "choice2": "Volumen", 
+        
+        "choice3": "Masse", 
+        
+        "choice4": "Gewichtskraft", 
+        
+        "choice5": "Dichte", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F33", 
+        
+        "question": "In welcher Zeile der Tabelle sind beide Angaben zur physikalischen Größe richtig? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F33 2023-10-01 10_52_08.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "1", 
+        
+        "choice2": "2", 
+        
+        "choice3": "3", 
+        
+        "choice4": "4", 
+        
+        "choice5": "5", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F34", 
+        
+        "question": "Welche Aussage über physikalische Größen ist richtig?", 
+        
+        "choice1": "Einheitenzeichen sind Abkürzungen für physikalische Größen", 
+        
+        "choice2": "Formelzeichen sind Abkürzungen für bestimmte Einheiten", 
+        
+        "choice3": "Formelzeichen sind gesetzlich vorgeschrieben", 
+        
+        "choice4": "Physikalische Größen werden mit Zahlenwert und Einheit angegeben", 
+        
+        "choice5": "Einheiten werden in Größen angegeben", 
+        
+        "answer": 4 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F35", 
+        
+        "question": "In welchem Fall beträgt die Lageenergie 1,2 Nm, wenn für die Fallbeschleunigung g = 10 m/s<sup>2</sup> angenommen wird? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F35 2023-10-01 10_56_55.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "1", 
+        
+        "choice2": "2", 
+        
+        "choice3": "3", 
+        
+        "choice4": "4", 
+        
+        "choice5": "5", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F36", 
+        
+        "question": "Welche Bewegungsart zeigt das Diagramm? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F36 2023-10-01 11_20_36.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "Bewegung mit gleich bleibender Beschleunigung", 
+        
+        "choice2": "Bewegung aus dem Stillstand mit abnehmender Beschleunigung", 
+        
+        "choice3": "Verzögerte Bewegung mit gleich bleibender Endgeschwindigkeit", 
+        
+        "choice4": "Verzögerte Bewegung bis zum Stillstand", 
+        
+        "choice5": "Beschleunigte Bewegung mit Anfangsgeschwindigkeit", 
+        
+        "answer": 2 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F37", 
+        
+        "question": "Welches Diagramm gehört zu einer gleichförmigen geradlinigen Bewegung mit einer Geschwindigkeit v = 6 km/h <a href='/images/ZP 2006/ZP 1 2006/1 2006 F37 2023-10-01 11_23_08.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "1", 
+        
+        "choice2": "2", 
+        
+        "choice3": "3", 
+        
+        "choice4": "4", 
+        
+        "choice5": "5", 
+        
+        "answer": 4 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F38", 
+        
+        "question": "Der Motor treibt die Arbeitsmaschine an. Welcher Zusammenhang besteht zwischen dem Durchmesser d<sub>1</sub>, der Umdrehungsfrequenz n<sub>1</sub>, dem Durchmesser d<sub>2</sub> und der Umdrehungsfrequenz n<sub>2</sub>? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F38.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "1", 
+        
+        "choice2": "2", 
+        
+        "choice3": "3", 
+        
+        "choice4": "4", 
+        
+        "choice5": "5", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F39", 
+        
+        "question": "Bild 1 zeigt eine Trageinrichtung, auf welche die Kraft F wirkt, Bild 2 zeigt das zugehörige Kräfteparallelogramm. Welche Behauptung ist richtig? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F39 2023-10-01 13_55_58.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "Der Winkel Alpha im Bild 2 ist gleich dem Winkel Beta im Bild 1", 
+        
+        "choice2": "Auf die Befestigung A wirkt nur die Kraft F", 
+        
+        "choice3": "Die Kraft F<sub>1</sub> versucht, die Befestigung B aus der Wand herauszuziehen", 
+        
+        "choice4": "Das Seil wird mit der Kraft F<sub>1</sub> auf Zug beansprucht", 
+        
+        "choice5": "Der Arm wird mit der Kraft F<sub>1</sub> auf Druck beansprucht", 
+        
+        "answer": 5 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F40", 
+        
+        "question": "Welches Fass rollt ungleichmäßig eine schiefe Ebene hinunter? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F40 2023-10-01 13_57_35.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "1", 
+        
+        "choice2": "2", 
+        
+        "choice3": "3", 
+        
+        "choice4": "4", 
+        
+        "choice5": "5", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F41", 
+        
+        "question": "In dem Diagramm ist der Zusammenhang zwischen Belastung und Verlängerung von 5 Schraubenfedern dargestellt. Welche Feder hat die größte Federrate (Federkonstante)? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F41 2023-10-01 14_01_39.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "Feder A", 
+        
+        "choice2": "Feder B", 
+        
+        "choice3": "Feder C", 
+        
+        "choice4": "Feder D", 
+        
+        "choice5": "Feder E", 
+        
+        "answer": 1 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F42", 
+        
+        "question": "Das Bild zeigt eine Winde, an deren Kurbel mit dem Hebelarm l die Kraft F angreift. Wie bezeichnet man das Produkt F*l? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F42 2023-10-01 14_04_09.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "Drehmoment", 
+        
+        "choice2": "Kraftwirkung", 
+        
+        "choice3": "Kraftarmprodukt", 
+        
+        "choice4": "Kraftprodukt", 
+        
+        "choice5": "Hebelprodukt", 
+        
+        "answer": 1 
+        
+        }, 
+        
+         
+        
+         
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F48", 
+        
+        "question": "Welche Gesetzmäßigkeit gilt für die dargestellte hydraulische Presse? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F48 2023-10-01 11_27_45.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "1", 
+        
+        "choice2": "2", 
+        
+        "choice3": "3", 
+        
+        "choice4": "4", 
+        
+        "choice5": "5", 
+        
+        "answer": 2 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F49", 
+        
+        "question": "Welche Aussage über die skizzierte Saugpumpe ist richtig? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F49 2023-10-01 11_31_41.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "Auf Meereshöhe beträgt die theoretisch erreichbare Saughöhe immer 9,81 m", 
+        
+        "choice2": "Beim Saughub ist das Ventil B geschlossen", 
+        
+        "choice3": "Beim Saughub ist das Ventil A geöffnet", 
+        
+        "choice4": "Wird der Kolben nach unten gedrückt, dann entsteht im oberen Kolbenraum ein Unterdruck", 
+        
+        "choice5": "Die Saughöhe ist um so kleiner, je kleiner der Luftdruck ist", 
+        
+        "answer": 5 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F50", 
+        
+        "question": "Ein massiver Körper schwimmt auf einer Flüssigkeit. Welche Aussage ist richtig", 
+        
+        "choice1": "Die Dichte des Körpers ist gleich der Dichte der Flüssigkeit", 
+        
+        "choice2": "Die Gewichtskraft des Körpers ist kleiner als die Gewichtskraft der verdrängten Flüssigkeit", 
+        
+        "choice3": "Die Dichte des Körpers ist kleiner als die Dichte der Flüssigkeit", 
+        
+        "choice4": "Das Volumen des Körpers ist gleich dem Volumen der verdrängten Flüssigkeit", 
+        
+        "choice5": "Die Masse des Körpers ist kleiner als die Masse der verdrängten Flüssigkeit", 
+        
+        "answer": 3 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F51", 
+        
+        "question": "Welche Umrechnung von °C in K ist falsch?", 
+        
+        "choice1": "273,2°C = 546,4K", 
+        
+        "choice2": "26,8°C = 300,0K", 
+        
+        "choice3": "-73,2°C = 200,0K", 
+        
+        "choice4": "-136,6°C = 136,6K", 
+        
+        "choice5": "-150,0°C = 23,2K", 
+        
+        "answer": 5 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F52", 
+        
+        "question": "Auf welcher physikalischen Erscheinung beruht die Wirkungsweise von Widerstands-Thermometern?", 
+        
+        "choice1": "Abhängigkeit des elektrischen Widerstands vom Widerstandswerkstoff", 
+        
+        "choice2": "Wärmeausdehnung der Metalle", 
+        
+        "choice3": "Wärmeleitung der Metalle", 
+        
+        "choice4": "Entstehen einer Spannung bei der Erwärmung von zwei zusammengelöteten Metallen", 
+        
+        "choice5": "Abhängigkeit der elektrischen Leitfähigkeit von der Temperatur", 
+        
+        "answer": 5 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F53", 
+        
+        "question": "Welches der genannten Temperaturmessgeräte hat den größten Messbereich?", 
+        
+        "choice1": "Thermoelement", 
+        
+        "choice2": "Alkoholthermometer", 
+        
+        "choice3": "Bimetallthermometer", 
+        
+        "choice4": "Quecksilberthermometer", 
+        
+        "choice5": "Elektrisches Widerstandsthermometer", 
+        
+        "answer": 5 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F54", 
+        
+        "question": "Glasgeräte sind mehr oder weniger empfindlich gegenüber schnellem Temperaturwechsel. Bei welchem Gerät ist die Bruchgefahr am kleinsten?", 
+        
+        "choice1": "Dünnwandiges Gefäß aus Quarz", 
+        
+        "choice2": "Dickwandiges Gefäß aus Jenaer Glas", 
+        
+        "choice3": "Dünnwandiges Gefäß aus Geräteglas mit Boratgehalt", 
+        
+        "choice4": "Dickwandiges Gefäß aus Hartglas mit hohem Alkaligehalt", 
+        
+        "choice5": "Dickwandiges Gefäß aus Glas mit hohem Quarzgehalt", 
+        
+        "answer": 1 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F55", 
+        
+        "question": "Wodurch kann die Siedetemperatur einer Flüssigkeit herabgesetzt werden?", 
+        
+        "choice1": "Durch Verringern des Drucks auf die Oberfläche der Flüssigkeit", 
+        
+        "choice2": "Durch Erhöhen des Drucks auf die Oberfläche der Flüssigkeit", 
+        
+        "choice3": "Durch Zugabe von Siedesteinen", 
+        
+        "choice4": "Durch Vergrößern der Oberfläche der Flüssigkeit", 
+        
+        "choice5": "Durch Rühren der Flüssigkeit", 
+        
+        "answer": 1 
+        
+        }, 
+        
+        { 
+        
+        "category":"ZP 1 2006 F56", 
+            
+        "question": "Eis von -10°C wird gleichmäßig Wärme zugeführt. In welchem Diagramm ist der Temperaturverlauf des Eises bis zum Zeitpunkt, an dem das Eis geschmolzen ist, richtig eingetragen? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F56.jpg' target ='_blank'>(Link zum Bild)</a>", 
+            
+        "choice1": "Durch Verringern des Drucks auf die Oberfläche der Flüssigkeit", 
+            
+        "choice2": "Durch Erhöhen des Drucks auf die Oberfläche der Flüssigkeit", 
+            
+        "choice3": "Durch Zugabe von Siedesteinen", 
+            
+        "choice4": "Durch Vergrößern der Oberfläche der Flüssigkeit", 
+            
+        "choice5": "Durch Rühren der Flüssigkeit", 
+            
+        "answer": 1 
+            
+        }, 
+        
+        { 
+        
+        "category":"ZP 1 2006 F57", 
+        
+        "question": "Welche Zuordnung der Änderung des Aggregatszustands und der Änderung des Wärmeinhalts ist richtig? <a href='/images/ZP 2006/ZP 1 2006/1 2006 F57 2023-10-01 14_17_30.png' target ='_blank'>(Link zum Bild)</a>", 
+        
+        "choice1": "1", 
+        
+        "choice2": "2", 
+        
+        "choice3": "3", 
+        
+        "choice4": "4", 
+        
+        "choice5": "5", 
+        
+        "answer": 2 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F58", 
+        
+        "question": "Warum halten sich Getränke, die in porösen Tongefäßen gelagert werden, auch bei Sonneneinstrahlung kühl?", 
+        
+        "choice1": "Weil Ton die Wärmestrahlung stark reflektiert", 
+        
+        "choice2": "Weil Ton ein schlechter Wärmeleiter ist", 
+        
+        "choice3": "Weil Ton eine größere spezifische Wärmekapazität als Wasser hat", 
+        
+        "choice4": "Weil die in den Poren eingeschlossene Luft wärmeisolierend wirkt", 
+        
+        "choice5": "Weil die an der Außenfläche verdunstende Flüssigkeit dem Gefäß Wärme entzieht", 
+        
+        "answer": 5 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F59", 
+        
+        "question": "Für welchen Vorgang ist die größte Wärmemenge erforderlich?", 
+        
+        "choice1": "Erwärmen von 1 kg Wasser von 20°C auf 21°C", 
+        
+        "choice2": "Erwärmen von 1 kg Eis von -5°C auf -4°C", 
+        
+        "choice3": "Erwärmen von 1 kg Dampf bei konstantem Druck von 120°C auf 121°C", 
+        
+        "choice4": "Erwärmen von 1 kg Dampf bei konstantem Volumen von 120°C auf 121°C", 
+        
+        "choice5": "Erwärmen von 1 kg Heizöl von 20°C auf 21°C", 
+        
+        "answer": 1 
+        
+        }, 
+        
+         
+        
+        { 
+        
+        "category":"ZP 1 2006 F60", 
+        
+        "question": "Wie groß ist die Mischungstemperatur, wenn 5 kg Wasser von 10°C mit 5 kg Wasser von 70°C gemischt werden?", 
+        
+        "choice1": "35°C", 
+        
+        "choice2": "40°C", 
+        
+        "choice3": "50°C", 
+        
+        "choice4": "60°C", 
+        
+        "choice5": "80°C", 
+        
+        "answer": 2 
+        
+        }
+
+]

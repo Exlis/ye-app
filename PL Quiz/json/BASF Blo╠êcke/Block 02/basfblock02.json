@@ -1,0 +1,407 @@
+[
+    {
+      "question": "Wie setzt sich eine gemessene physikalische Größe zusammen?",
+      "choice1": "Größe = Zahlenwert * Einheit",
+      "choice2": "Größe = Zahlzeichen * Zehnerpotenz * Größeneinheit",
+      "choice3": "Größe = Zahl",
+      "choice4": "Größe = Größenzeichen * Zahl * Einheit",
+      "answer": 1
+      },
+      
+      {
+        "question": "Die sieben SI-Basisgrößen sind …",
+        "choice1": "Lux, Geschwindigkeit, Länge, Masse, Zeit, Temperatur, Stromstärke",
+        "choice2": "Länge, Masse, Zeit, Temperatur, Stromstärke, Lichtstärke, Stoffmenge",
+        "choice3": "Länge, Masse, Zeit, Temperatur, Arbeit, Stromstärke, Lichtstärke",
+        "choice4": "Stoffmenge, Lichtstärke, Stromstärke, Temperatur, Zeit, Masse, Widerstand",
+        "answer": 2
+      },
+      
+      {
+        "question": "Welche Aussage zu den sieben SI-Basiseinheiten ist falsch?",
+        "choice1": "Grundlage der Längendefinition ist die Lichtgeschwindigkeit c",
+        "choice2": "Zur Definition der Lichtstärke wird das photometrische Strahlungsäquivalent verwendet",
+        "choice3": "Die Definition der Stromstärke erfolgt über die Elementarladung e",
+        "choice4": "Aus den sieben SI-Basiseinheiten lassen sich nicht alle weiteren Größen und Einheiten ableiten",
+        "answer": 4
+      },
+      
+      {
+        "question": "In welcher Aussage sind die dezimalen Vielfachen richtig nach aufsteigender Größe angeordnet?",
+        "choice1": "Atto, Femto, Piko, Nano, Micro, Milli, Zenti, Dezi, Deka, Hekto, Kilo, Mega, Giga, Tera, Peta, Exa",
+        "choice2": "Femto, Atto, Piko, Nano, Micro, Milli, Zenti, Dezi, Deka, Hekto, Kilo, Mega, Giga, Tera, Peta, Exa",
+        "choice3": "Atto, Femto, Piko, Nano, Micro, Milli, Zenti, Dezi, Deka, Hekto, Kilo, Mega, Giga, Tera, Exa, Peta",
+        "choice4": "Atto, Femto, Piko, Micro, Nano, Milli, Zenti, Dezi, Deka, Hekto, Kilo, Mega, Giga, Tera, Peta, Exa",
+        "answer": 1
+      },
+      
+      {
+        "question": "Fülle die Lücken aus: Ein Newton ist die Kraft, die bei …, dabei ist die Masse eine … Größe und Gewichtskraft eine … Größe ",
+        "choice1": "… der Masse 2 kg die Beschleunigung 1 m/s^2 hervorruft, ortsbestimmende, ortsabhängige",
+        "choice2": "… der Masse 1 kg die Beschleunigung 9,81 m/s^2 hervorruft, ortsabhängige, ortsunabhängige",
+        "choice3": "… der Masse 1 kg die Beschleunigung 1 m/s^2 hervorruft, ortsunabhängige, ortsabhängige",
+        "choice4": "… der Masse 1 g die Beschleunigung von 10 m/s^2 hervorruft, ortsunabhängige, ortsabhängige",
+        "answer": 3
+      },
+      
+      {
+        "question": "Die Gleichung F=ma ist eine … , die Gleichung [F]=kg*m/s^2 ist eine …",
+        "choice1": "Einheitengleichung, Größengleichung",
+        "choice2": "Größengleichung, Einheitengleichung",
+        "choice3": "Einheitenrechnung, Größenrechnung",
+        "choice4": "Größe, Einheit",
+        "answer": 2
+      },
+      
+      {
+        "question": "Mit einem Tauchsieder von 1000 W soll ein Ölbad mit 15 kg Öl von 20°C auf 100°C erwärmt werden, c(Öl) = 2,0 kJ/(kg*K). Wie lange dauert der Heizvorgang, wenn der auftretende Wärmeverlust vernachlässigt wird?",
+        "choice1": "40 Minuten",
+        "choice2": "2400 Sekunden",
+        "choice3": "2,4 Sekunden",
+        "choice4": "0,3 Stunden",
+        "answer": 1
+      },
+      
+      {
+        "question": "Rechnen Sie folgende Angaben in SI-Einheiten um: 2 cN/(cm^2), 25 cJ/(µg), 3,2 cN/(Mg), 5,4 pg/(mm^3), Ω(µm)^2/mm in Ωm, 58 bar in N/(cm)^2 ",
+        "choice1": "20 N/m^2, 2,5 * 10^8 J/kg, 3,2 * 10^(-5) N/kg, 5,4 * 10^(-6) kg/m^3, 10^(-9) Ωm, 580 N/(cm)^2",
+        "choice2": "200 N/m^2, 2,5 * 10^8 J/kg, 32 * 10^(-5) N/kg, 5,4 * 10^(-6) kg/m^3, 10^(-9) Ωm, 580 N/(cm)^2",
+        "choice3": "200 N/m^2, 2,5 * 10^8 J/kg, 3,2 * 10^(-5) N/kg, 5,4 * 10^(-6) kg/m^3, 10^(-8) Ωm, 58 N/(cm)^2",
+        "choice4": "200 N/m^2, 2,5 * 10^8 J/kg, 3,2 * 10^(-5) N/kg, 5,4 * 10^(-6) kg/m^3, 10^(-9) Ωm, 580 N/(cm)^2",
+        "answer": 3
+      },
+      
+      {
+        "question": "Glas zeichnet sich durch sehr hohe Beständigkeit gegen Wasser, Salzlösungen, Säuren, Laugen sowie organische Lösungsmittel aus und übertrifft damit die meisten 1 , es wird nur durch 2 , weitere Vorteile sind 3",
+        "choice1": "1: Kunststoffe, 2: Flusssäure, bei erhöhten Temperaturen von starken Laugen und konzentrierter Phosphorsäure angegriffen, 3: Formstabilität und hohe Transparenz",
+        "choice2": "1: Porzellane, 2: Flusssäure und konzentrierter Phosphorsäure angegriffen, 3: Formstabilität und hohe Transparenz",
+        "choice3": "1: Kunststoffe, 2: konzentrierte Phosphorsäure angegriffen, 3: Formstabilität und hohe Transparenz",
+        "choice4": "1: Kunststoffe, 2: Flusssäure, bei erhöhten Temperaturen von starken Laugen und konzentrierter Phosphorsäure angegriffen, 3: Wärmebeständigkeit und sehr gute Wärmeleitfähigkeit",
+        "answer": 1
+      },
+      
+      {
+        "question": "Um Flüssigkeitsvolumina abzumessen, benötigt man verschiedene Messgeräte: Messzylinder, Messkolben, Pipetten, Büretten, die auf Einguss und Ablauf justiert sind. Welche Zuordnung ist richtig?",
+        "choice1": "Messzylinder: Einguss und Ablauf, Messkolben: Einguss, Pipetten: Ablauf, Büretten: Einguss",
+        "choice2": "Messzylinder: Einguss und Ablauf, Messkolben: Ablauf, Pipetten: Ablauf, Büretten: Ablauf",
+        "choice3": "Messzylinder: Nur Ablauf, Messkolben: Einguss, Pipetten: Ablauf, Büretten: Ablauf",
+        "choice4": "Messzylinder: Einguss oder Ablauf, Messkolben: Einguss, Pipetten: Ablauf, Büretten: Ablauf",
+        "answer": 4
+      },
+      
+      {
+        "question": "Welche Angaben kann man aus der Beschriftung eines Messkolbens entnehmen?",
+        "choice1": "Nennvolumen, Hersteller, In/Ex, Fehlergrenze, Genauigkeitsklasse A/B, Justiertemperatur",
+        "choice2": "Nennvolumen, Hersteller, In/Ex, Fehlergrenze, Genauigkeitsklasse A/B, Justiertemperatur, Chargennummer",
+        "choice3": "Nennvolumen, Hersteller, In/Ex, Fehlergrenze, Genauigkeitsklasse A/B",
+        "choice4": "Nennvolumen, Hersteller, In/Ex, Fehlergrenze, Genauigkeitsklasse A/B, Justiertemperatur, Chargennummer, Maße des Normschliffs",
+        "answer": 1
+      },
+      
+      {
+        "question": "Welche Reihenfolge zur Vorbereitung und Befüllung einer Bürette ist richtig?",
+        "choice1": "Bürette spülen, Blasenfreiheit sicherstellen, mit dem Glastrichter Flüssigkeit bis über Nullmarke befüllen, etwas Flüssigkeit ablaufen lassen, Trichter entfernen, über Schellbachstreifen auf Nullmarke einstellen, Tropfen an der Auslaufrohrmündung entfernen",
+        "choice2": "Bürette spülen, mit dem Glastrichter Flüssigkeit bis über Nullmarke befüllen, Blasenfreiheit sicherstellen, etwas Flüssigkeit ablaufen lassen, Trichter entfernen, Tropfen an der Auslaufrohrmündung entfernen, über Schellbachstreifen auf Nullmarke einstellen",
+        "choice3": "Bürette spülen, mit dem Glastrichter Flüssigkeit bis über Nullmarke befüllen, Blasenfreiheit sicherstellen, etwas Flüssigkeit ablaufen lassen, Trichter entfernen, über Schellbachstreifen auf Nullmarke einstellen, Tropfen an der Auslaufrohrmündung entfernen",
+        "choice4": "Bürette spülen, mit dem Glastrichter Flüssigkeit bis über Nullmarke befüllen, etwas Flüssigkeit ablaufen lassen, Blasenfreiheit sicherstellen, Trichter entfernen, über Schellbachstreifen auf Nullmarke einstellen, Tropfen an der Auslaufrohrmündung entfernen",
+        "answer": 3
+      },
+      
+      {
+        "question": "Welche Reihenfolge zum Ablauf des Pipettierens ist richtig?",
+        "choice1": "Pipette spülen, über die Ringmarke ansaugen, mit Zeigefinger verschließen und außen mit Papier abstreifen, Pipette auf Ringmarke einstellen, auslaufen lassen und Nachlaufzeit beachten, Ablaufspitze über Glaswand abstreifen",
+        "choice2": "Pipette spülen, über die Ringmarke ansaugen, mit Zeigefinger verschließen und außen mit Papier abstreifen, auslaufen lassen und Nachlaufzeit beachten, Pipette auf Ringmarke einstellen, Ablaufspitze über Glaswand abstreifen",
+        "choice3": "Pipette spülen, über die Ringmarke ansaugen, mit Zeigefinger verschließen und außen mit Papier abstreifen, Pipette auf Ringmarke einstellen, Ablaufspitze über Glaswand abstreifen, auslaufen lassen und Nachlaufzeit beachten",
+        "choice4": "Über die Ringmarke ansaugen, Pipette spülen, mit Zeigefinger verschließen und außen mit Papier abstreifen, Pipette auf Ringmarke einstellen, auslaufen lassen und Nachlaufzeit beachten, Ablaufspitze über Glaswand abstreifen",
+        "answer": 1
+      },
+      
+      {
+        "question": "Welche Aussage zum/über das Messen ist falsch?",
+        "choice1": "Messergebnis besteht immer aus Größe, Vergleichsoperator, Zahl und Einheit",
+        "choice2": "Vergleichen einer Größe, mit der für sie festgelegten Einheit",
+        "choice3": "Für die Genauigkeit der Messung kommt es nur auf die Anzahl signifikanter Stellen an",
+        "choice4": "Die Genauigkeit eines Analysenergebnisses ist nicht von der Genauigkeit des Messergebnisses abhängig",
+        "answer": 4
+      },
+      
+      {
+        "question": "Bei Massenmessgeräten unterscheidet man zwischen Laborwaagen (oberschalige Waagen) und Analysenwaagen. Welche Aussage stimmt?",
+        "choice1": "Die Oberschalenwaage hat einen Messbereich von 210 g",
+        "choice2": "Die Analysenwaage hat einen Messbereich von 210 g und eine Genauigkeit von 1 mg oder 0,1 mg",
+        "choice3": "Der Messbereich der Laborwaage beträgt 5100 g bei einer Genauigkeit von 0,1 mg",
+        "choice4": "Es ist unwichtig, an welchem Ort die Waage aufgebaut ist",
+        "answer": 2
+      },
+      
+      {
+  
+      "question": "Was versteht man unter Kalibrieren?", 
+      "choice1": "Feststellen der Messabweichung ohne Veränderung des Prüfmittels", 
+      "choice2": "Qualitätsprüfung des Prüfmittels nach den Forderungen der Eichordnung durch das Eichamt", 
+      "choice3": "Minimieren der Messabweichung durch Veränderung des Prüfmittels", 
+      "choice4": "Keine der ausgewählten Antworten ist richtig", 
+      "answer": 1 
+  
+      },
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Was versteht man unter Justieren?", 
+      "choice1": "Feststellen der Messabweichung ohne Veränderung des Prüfmittels", 
+      "choice2": "Minimieren der Messabweichung durch Veränderung des Prüfmittels", 
+      "choice3": "Qualitätsprüfung des Prüfmittels nach den Forderungen der Eichordnung durch das Eichamt", 
+      "choice4": "Keine der ausgewählten Antworten ist richtig", 
+      "answer": 2
+  
+      },
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Was versteht man unter Eichen?", 
+      "choice1": "Feststellen der Messabweichung ohne Veränderung des Prüfmittels", 
+      "choice2": "Minimieren der Messabweichung durch Veränderung des Prüfmittels", 
+      "choice3": "Qualitätsprüfung des Prüfmittels nach den Forderungen der Eichordnung durch das Eichamt", 
+      "choice4": "Keine der ausgewählten Antworten ist richtig", 
+      "answer": 3
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Welche Aussage zu systematischen Fehlern ist falsch?", 
+      "choice1": "Die Fehler sind bedingt durch die Messmethode", 
+      "choice2": "Bei gleichen Messbedingungen treten sie immer in der gleichen Größenordnung auf", 
+      "choice3": "Sie sind einseitige Abweichungen", 
+      "choice4": "Die Fehler sind nicht vermeidbar", 
+      "answer": 4
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Welche Aussage zu zufälligen Fehlern ist falsch?", 
+      "choice1": "Die Fehler treten nur ab und zu auf", 
+      "choice2": "Es handelt sich um einen leicht erkennbaren Fehler", 
+      "choice3": "Der Fehler entsteht durch wiederholte Messungen einer Größe", 
+      "choice4": "Zur Minimierung der Fehler können Mittelwerte gebildet werden", 
+      "answer": 2
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Welche Aussage zu groben Fehlern ist falsch?", 
+      "choice1": "Sie werden durch den Beobachter verursacht", 
+      "choice2": "Dazu gehören z.B. Parallaxenfehler, Ablesefehler, Falsche Handhabung des Messmittels, Übertragungsfehler", 
+      "choice3": "Sie können durch Hilfsmittel (z.B. Schellbachstreifen, digitale Anzeige) verhindert werden", 
+      "choice4": "Sie entstehen durch Unachtsamkeit des Analytikers und sind somit nur schwer vermeidbar", 
+      "answer": 4
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Welche Aussage kann man anhand der Dichte nicht über Stoffe treffen?", 
+      "choice1": "Stoffart", 
+      "choice2": "Reinheit eines Stoffes", 
+      "choice3": "Konzentration einer Lösung", 
+      "choice4": "Volumen des Stoffes", 
+      "answer": 4
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Was kann nicht über die Dichte bestimmt werden?", 
+      "choice1": "Alkoholgehalt von Bier", 
+      "choice2": "Zuckergehalt von Honig", 
+      "choice3": "Fettgehalt von Milch", 
+      "choice4": "Güte von Most", 
+      "answer": 2
+  
+      },
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Von welchen Stoffeigenschaften ist die Dichtebestimmung nicht abhängig?", 
+      "choice1": "Siedepunkt und Schmelzpunkt", 
+      "choice2": "Aggregatszustand und Form des Objekts", 
+      "choice3": "Löslichkeit und Reaktionsvermögen", 
+      "choice4": "Vorhandene Substanzmenge und gewünschte Genauigkeit", 
+      "answer": 1
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Welche Aussage zur Auftriebskraft ist falsch?", 
+      "choice1": "Auftriebskraft ist die Kraft, mit welcher eine Flüssigkeit versucht einen Körper aus sich herauszudrücken", 
+      "choice2": "Sie ist abhängig von der Erdbeschleunigung", 
+      "choice3": "Sie ist abhängig vom Volumen des Körpers", 
+      "choice4": "Sie ist von der Dichte der Flüssigkeit unabhängig", 
+      "answer": 4
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Was versteht man unter dem Prinzip des Archimedes?", 
+      "choice1": " Die Auftriebskraft auf einen Körper in einer Flüssigkeit ist dem Betrag nach gleich der Gewichtskraft des Flüssigkeitsvolumens", 
+      "choice2": "Die Auftriebskraft auf einen Körper in einer Flüssigkeit ist dem Betrag nach gleich der Gewichtskraft der vom Körper verdrängten Flüssigkeit", 
+      "choice3": " Die Auftriebskraft auf einen Körper in einer Flüssigkeit ist dem Betrag nach ungleich der Gewichtskraft der vom Körper verdrängten Flüssigkeit", 
+      "choice4": " Die Auftriebskraft auf einen Körper in einer Flüssigkeit ist konstant", 
+      "answer": 1
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Welche Aussage zu Schweben, Sinken und Steigen ist richtig? FA: Auftriebskraft, FG: Gewichtskraft des Körpers an Luft, VFl: Volumen der verdrängten Flüssigkeit, VK: Volumen des Körpers", 
+      "choice1": "Sinken: FA > FG, VFl = VK ", 
+      "choice2": "Schweben: FA = FG, VFl ≠ VK", 
+      "choice3": "Steigen: FA > FG, VFl = VK", 
+      "choice4": "Schwimmen: FA = FG, VFl > VK", 
+      "answer": 3
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Ein Körper hat in Luft die Gewichtskraft 3,50 N. Wenn er vollständig in Wasser eingetaucht ist, hat er die Gewichtskraft 2,10 N. Bestimme das Volumen und die Dichte des Körpers und entscheide, um welches Material es sich handeln könnte.", 
+      "choice1": "2,50 g/cm^3", 
+      "choice2": "3,1 g/cm^3", 
+      "choice3": "7,21 g/cm^3", 
+      "choice4": "2,48 g/cm^3",
+      "answer": 1
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Ein Quader mit den Kantenlängen a = 45,0 cm, b = 32,0 cm, c = 22,0 cm, befindet sich komplett unter Wasser der Dichte 1,00 g/cm^3. Bestimme die Auftriebskraft FA. ", 
+      "choice1": "FA = 209 N", 
+      "choice2": "FA = 103 N", 
+      "choice3": "FA = 0,311 kN", 
+      "choice4": "FA = 74,8 N", 
+      "answer": 3
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Die Dichte eines Körpers beträgt 2,8 kg/dm^3. Er wird in Flüssigkeit der Dichte 1,00 g/cm^3 getaucht, dort hat  er  eine Gewichtskraft  von 0,60 N. Bestimme die Gewichtskraft des Körpers an Luft.", 
+      "choice1": "FG,L = 0,73 N", 
+      "choice2": "FG,L = 0,443 N", 
+      "choice3": "FG,L = 0,93 N", 
+      "choice4": "FG,L = 1,22 N", 
+      "answer": 3
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Welche Aussage zum Aräometer ist falsch?", 
+      "choice1": "Die kleineren Dichtewerte stehen auf der Skala oben, die großen weiter unten", 
+      "choice2": "Die Skaleneinteilung ist nicht linear ", 
+      "choice3": "Zur Ermittlung der ungefähren Dichte werden Suchspindeln verwendet", 
+      "choice4": "Bei der Messung mit dem Aräometer spielt die Temperatur eine vernachlässigbare Rolle", 
+      "answer": 4
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Ein Holzbrett mit den Maßen 5,00 cm * 20,0 cm * 200 cm und der Dichte 0,600 g/cm^3 schwimmt im Wasser. Wie groß ist die Eintauchtiefe h?", 
+      "choice1": "h = 3,00 cm", 
+      "choice2": "h = 1,50 cm", 
+      "choice3": "h = 2,3 cm", 
+      "choice4": "h = 2,95 cm", 
+      "answer": 1
+  
+      }, 
+  
+      { 
+  
+      "category":"Block 02", 
+      "question": "Ein Würfel aus Eichenholz mit der Kantenlänge a = 15 cm schwimmt auf Wasser, wobei er noch 5,0 cm über die Wasseroberfläche ragt. Wie groß ist die Dichte des Holzes?", 
+      "choice1": "Dichte(Holz) = 0,70 g/cm^3", 
+      "choice2": "Dichte(Holz) = 0,67 g/cm^3", 
+      "choice3": "Dichte(Holz) = 0,53 g/cm^3", 
+      "choice4": "Dichte(Holz) = 0,8 g/cm ^3", 
+      "answer": 2
+  
+      }, 
+     
+      {
+      "category":"Block 02", 
+      "question":"Welcher Messwert wird <a href='/images/Block 02/Block 02 img 1.png' target ='_blank'> ->hier<- </a> angezeigt? ",
+      "choice1": "71,3 mm", 
+      "choice2": "13,7 mm", 
+      "choice3": "12,5 mm", 
+      "choice4": "7 mm",
+      "answer": 2
+      
+      },
+  
+      {
+        "category":"Block 02", 
+        "question":"Welcher Messwert wird <a href='/images/Block 02/Block 02 img 2.png' target ='_blank'> ->hier<- </a> angezeigt? ",
+        "choice1": "22,25 mm", 
+        "choice2": "22,32 mm", 
+        "choice3": "22,25 cm", 
+        "choice4": "22 mm",
+        "answer": 1
+        
+      },
+  
+      {
+        "category":"Block 02", 
+        "question":"Welcher Messwert wird <a href='/images/Block 02/Block 02 img 3.png' target ='_blank'> ->hier<- </a> angezeigt? ",
+        "choice1": "17,15 mm", 
+        "choice2": "1,73 cm", 
+        "choice3": "17,2 mm", 
+        "choice4": "17 mm",
+         "answer": 3
+          
+      },
+      
+      {
+        "category":"Block 02", 
+        "question":"Welcher Messwert wird <a href='/images/Block 02/Block 02 img 4.png' target ='_blank'> ->hier<- </a> angezeigt? ",
+        "choice1": "21,35 mm", 
+        "choice2": "2 cm", 
+        "choice3": "22,7 mm", 
+        "choice4": "22,65 mm",
+        "answer": 4
+        
+      },
+  
+      {
+      "category":"Block 02", 
+      "question": "Welche Aussage zum Pyknometer ist richtig?", 
+      "choice1": "Die Dichte von Flüssigkeiten ist nicht temperaturabhängig, das Pyknometer mit der Flüssigkeit muss also nicht temperiert werden", 
+      "choice2": "Bei der Dichtebestimmung muss ein exaktes Volumen abgemessen werden, um davon die Masse zu ermitteln, daher kommt das Pyknometer hier zum Einsatz", 
+      "choice3": "Um das Pyknometer luftblasenfrei zu bekommen, genügt es, es leicht zu schwenken", 
+      "choice4": "Das Pyknometer braucht zur Messung der Masse nicht komplett trocken zu sein", 
+      "answer": 2
+  
+      }
+
+]
